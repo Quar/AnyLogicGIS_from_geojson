@@ -1,5 +1,6 @@
 Customize AnyLogicGIS Utility Generator
 ========
+[![Build Status](https://travis-ci.com/Quar/AnyLogicGIS_from_geojson.svg?branch=master)](https://travis-ci.com/Quar/AnyLogicGIS_from_geojson)
 
 Generate Java Utility class from GeoJson Input for AnyLogic GISShape
 
